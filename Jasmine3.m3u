@@ -1,0 +1,30 @@
+#EXTM3U 
+#EXTINF:-1, SKYSPORTS SPORTS
+ 
+#EXTINF:0,|UK| SKYSPORTS NEWS FHD UK
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73 
+http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/791.ts
+#EXTINF:0,|UK| SKYSPORTS ARENA FHD UK
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73 
+http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/52229.ts
+#EXTINF:0,|UK| MAIN EVENT FHD UK
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73 
+http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/788.ts
+#EXTINF:0,|UK| SKYSPORTS PREMIER FHD UK
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73 
+http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/784.ts
+#EXTINF:0,|UK| SKYSPORTS FOOTBALL FHD UK
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73 
+http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/50058.ts
+#EXTINF:0,|UK| SKYSPORTS MIX FHD UK
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73 
+http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/4557.ts
+#EXTINF:0,|UK| SKYSPORTS CRICKET FHD UK
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73 
+http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/785.ts
+#EXTINF:0,|UK| SKYSPORTS GOLF FHD UK
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73 
+http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/48925.ts
+#EXTINF:0,|UK| SKYSPORTS F1 FHD UK
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73 
+http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/52055.ts
