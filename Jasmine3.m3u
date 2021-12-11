@@ -1,30 +1,95 @@
 #EXTM3U 
-#EXTINF:-1, SKYSPORTS SPORTS
+#EXTINF:-1, SKYSPORTS SPORTS WATCH MORE ON OMOHAK TV
  
-#EXTINF:0,|UK| SKYSPORTS NEWS FHD UK
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73 
-http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/791.ts
-#EXTINF:0,|UK| SKYSPORTS ARENA FHD UK
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73 
-http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/52229.ts
-#EXTINF:0,|UK| MAIN EVENT FHD UK
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73 
-http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/788.ts
-#EXTINF:0,|UK| SKYSPORTS PREMIER FHD UK
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73 
-http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/784.ts
-#EXTINF:0,|UK| SKYSPORTS FOOTBALL FHD UK
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73 
-http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/50058.ts
-#EXTINF:0,|UK| SKYSPORTS MIX FHD UK
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73 
-http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/4557.ts
-#EXTINF:0,|UK| SKYSPORTS CRICKET FHD UK
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73 
-http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/785.ts
-#EXTINF:0,|UK| SKYSPORTS GOLF FHD UK
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73 
-http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/48925.ts
-#EXTINF:0,|UK| SKYSPORTS F1 FHD UK
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73 
-http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/52055.ts
+#EXTINF:-1,UK: Sky Sport Main Events
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/259
+#EXTINF:-1,UK: Sky Sport Cricket
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/258
+#EXTINF:-1,UK: Sky Sport Action
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/257
+#EXTINF:-1,UK: Sky Sport Golf
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/256
+#EXTINF:-1,UK: Sky Sport PL
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/255
+#EXTINF:-1,UK: Sky Sport F1
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/253
+#EXTINF:-1,UK: Sky Sport News
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/416
+#EXTINF:-1,UK: Sky Sport Main Events HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/6680
+#EXTINF:-1,UK: Sky Sport Cricket HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/6681
+#EXTINF:-1,UK: Sky Sport Action HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/6682
+#EXTINF:-1,UK: Sky Sport Golf HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/6683
+#EXTINF:-1,UK: Sky Sport Premier League HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/6684
+#EXTINF:-1,UK: Sky Sport Football HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/15406
+#EXTINF:-1,UK: Sky Sport Arena HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/12665
+#EXTINF:-1,UK: Sky Sport F1 HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/6685
+#EXTINF:-1,UK: Sky Sports News HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/1624
+#EXTINF:-1,UK: Sky Sports MIX
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/7608
+#EXTINF:-1,IT: Sky Sport Uno HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/408
+#EXTINF:-1,IT: Sky Sport Arena HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/409
+#EXTINF:-1,IT: Sky Sport Serie A HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/541
+#EXTINF:-1,IT: Sky Sport Plus HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/848
+#EXTINF:-1,IT: Sky Sport 24HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/410
+#EXTINF:-1,IT: Sky Sport F1 HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/407
+#EXTINF:-1,DE: Sky Sport Bundesliga 1 HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/539
+#EXTINF:-1,DE: Sky Sport Bundesliga 2 HD ( During Games only )
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/1344
+#EXTINF:-1,DE: Sky Sport Bundesliga 3 HD ( During Games only )
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/1343
+#EXTINF:-1,DE: Sky Sport Bundesliga 4 HD ( During Games only )
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/1342
+#EXTINF:-1,DE: Sky Sport Bundesliga 5 HD ( During Games only )
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/1341
+#EXTINF:-1,DE: Sky Sport Bundesliga 6 HD ( During Games only )
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/1340
+#EXTINF:-1,DE: Sky Sport Bundesliga 7 HD ( During Games only )
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/1339
+#EXTINF:-1,DE: Sky Sport Bundesliga 8 HD ( During Games only )
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/1338
+#EXTINF:-1,DE: Sky Sport Bundesliga 9 HD ( During Games only )
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/1337
+#EXTINF:-1,DE: Sky Sport Bundesliga 10 HD ( During Games only )
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/1345
+#EXTINF:-1,DE: Sky Sport 1 HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/121
+#EXTINF:-1,DE: Sky Sport 2 HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/540
+#EXTINF:-1,DE: Sky Sport 3 HD ( During Games only )
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/7487
+#EXTINF:-1,DE: Sky Sport 4 HD ( During Games only )
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/1333
+#EXTINF:-1,DE: Sky Sport 5 HD  ( During Games only )
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/1332
+#EXTINF:-1,DE: Sky Sport 6 HD ( During Games only )
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/1331
+#EXTINF:-1,DE: Sky Sport 7 HD ( During Games only )
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/1330
+#EXTINF:-1,DE: Sky Sport 8 HD ( During Games only )
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/1329
+#EXTINF:-1,DE: Sky Sport 9 HD ( During Games only )
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/1328
+#EXTINF:-1,DE: Sky Sport 10 HD ( During Games only )
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/1335
+#EXTINF:-1,DE: Sky Sport 11 HD ( During Games only )
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/1334
+#EXTINF:-1,DE: Sky Sport Austria HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/122
+#EXTINF:-1,DE: Sky Sports News HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/120
